@@ -13,5 +13,5 @@
 
 ### The report for this project can be found here: [Developing Interpretable Method to Understand Feature Importance and Interactions for for Suicide Risk Management](https://docs.google.com/document/d/1a5n9hVakSRV7vyuA8BnJeFJOQsP3kQMCQUoidGKAG7Y/edit?usp=sharing)
 ### The poster looks like this:
-<img src="" alt="County Adjacent File" title="Poster1">
-
+<img src="https://github.com/Wenhuan2516/SHAP_Values_for_Suicide_Study/blob/main/poster1.png" alt="County Adjacent File" title="Poster1">
+<img src="https://github.com/Wenhuan2516/SHAP_Values_for_Suicide_Study/blob/main/poster2.png" alt="County Adjacent File" title="Poster2">
