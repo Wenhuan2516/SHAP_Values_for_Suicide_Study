@@ -27,7 +27,7 @@
 #### Random Forest Feature Importance for All factors
 <img src="https://github.com/Wenhuan2516/SHAP_Values_for_Suicide_Study/blob/main/random3.png" alt="SHAP result" title="shap1">
 
-### SHAP Values for Overall Suicide rates(Suicide rates by all means)
+### SHAP Values for Overall Suicide rates(Suicide death caused by firearms and Non-firearms)
 #### Plot bar graph to rank SHAP values for climate factors
 <img src="https://github.com/Wenhuan2516/SHAP_Values_for_Suicide_Study/blob/main/shap-overall-1.png" alt="SHAP result" title="shap1">
 
@@ -48,3 +48,25 @@
 
 #### Beewarm graoh to rank SHAP values for social economic factors
 <img src="https://github.com/Wenhuan2516/SHAP_Values_for_Suicide_Study/blob/main/shap-overall-8.png" alt="SHAP result" title="shap1">
+
+### SHAP Values for Firearm Suicide rates(Suicide rates by Firearm)
+#### Plot bar graph to rank SHAP values for climate factors
+<img src="https://github.com/Wenhuan2516/SHAP_Values_for_Suicide_Study/blob/main/shap-firearm-1.png" alt="SHAP result" title="shap1">
+
+#### Beewarm graoh to rank SHAP values for climate factors
+<img src="https://github.com/Wenhuan2516/SHAP_Values_for_Suicide_Study/blob/main/shap-firearm-2.png" alt="SHAP result" title="shap1">
+
+#### Interaction between elevation/altitude(y-axis) and rurality(x-axis)
+<img src="https://github.com/Wenhuan2516/SHAP_Values_for_Suicide_Study/blob/main/shap-firearm-3.png" alt="SHAP result" title="shap1">
+
+#### Interaction between elevation/altitude(x-axis) and rurality(y-axis)
+<img src="https://github.com/Wenhuan2516/SHAP_Values_for_Suicide_Study/blob/main/shap-firearm-4.png" alt="SHAP result" title="shap1">
+
+#### SHAP Value of social economic factors for one county as an example
+<img src="https://github.com/Wenhuan2516/SHAP_Values_for_Suicide_Study/blob/main/shap-firearm-5.png" alt="SHAP result" title="shap1">
+
+#### Plot bar graph to rank SHAP values for social economic factors
+<img src="https://github.com/Wenhuan2516/SHAP_Values_for_Suicide_Study/blob/main/shap-firearm-6.png" alt="SHAP result" title="shap1">
+
+#### Beewarm graoh to rank SHAP values for social economic factors
+<img src="https://github.com/Wenhuan2516/SHAP_Values_for_Suicide_Study/blob/main/shap-firearm-7.png" alt="SHAP result" title="shap1">
