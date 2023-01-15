@@ -12,4 +12,6 @@
 #### 4. [Suicide Rate Analysis](https://docs.google.com/spreadsheets/d/1AwO5qR4En9ASxsBAuejjg8Yq8GP-LyQqsUhbX7E2VKg/edit?usp=sharing)
 
 ### The report for this project can be found here: [Developing Interpretable Method to Understand Feature Importance and Interactions for for Suicide Risk Management](https://docs.google.com/document/d/1a5n9hVakSRV7vyuA8BnJeFJOQsP3kQMCQUoidGKAG7Y/edit?usp=sharing)
+### The poster looks like this:
+<img src="" alt="County Adjacent File" title="Poster1">
 
